@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T10:30:45.966Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="TBh6mtzy8PTMPDofpTwn" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-07T10:35:34.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="IXo3Q6tuHtDUKfJtA1VI" version="16.6.6" type="github">
   <diagram id="wSGMcBNISf7HqdgNfVy2" name="第 1 页">
-    <mxGraphModel dx="593" dy="313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,6 +9,12 @@
             <Array as="points">
               <mxPoint x="598" y="230" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8yMyw2qE8aiuTOASSJmz-81" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeColor=default;entryX=0.549;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="8yMyw2qE8aiuTOASSJmz-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="893" y="350" as="sourcePoint" />
+            <mxPoint x="893" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8yMyw2qE8aiuTOASSJmz-46" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;dashed=1;" vertex="1" parent="1">
@@ -154,6 +160,24 @@
         </mxCell>
         <mxCell id="8yMyw2qE8aiuTOASSJmz-76" value="服务转发" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="292" y="415" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8yMyw2qE8aiuTOASSJmz-80" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.664;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeColor=default;" edge="1" parent="1" source="8yMyw2qE8aiuTOASSJmz-77" target="8yMyw2qE8aiuTOASSJmz-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8yMyw2qE8aiuTOASSJmz-77" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="775" y="165" width="215" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="8yMyw2qE8aiuTOASSJmz-78" value="xxl-job admin" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="797.5" y="190" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8yMyw2qE8aiuTOASSJmz-79" value="分布式任务高度系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="802.5" y="230" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8yMyw2qE8aiuTOASSJmz-85" value="注册" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="798" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8yMyw2qE8aiuTOASSJmz-86" value="服务调度" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="870" y="290" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
