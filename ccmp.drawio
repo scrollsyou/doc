@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-03-09T09:47:28.049Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="aj8whcbqP3qGCdpNC_Z9" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-09T09:50:16.181Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="ep3LIvRcwKHHbacRwv0x" version="16.6.6" type="github">
   <diagram id="wSGMcBNISf7HqdgNfVy2" name="第 1 页">
-    <mxGraphModel dx="1753" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2076" dy="1094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9GRwctNnMvmnXsCD43Yp-45" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="470" y="930" width="840" height="180" as="geometry" />
+        </mxCell>
         <mxCell id="9GRwctNnMvmnXsCD43Yp-9" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="80" width="960" height="204" as="geometry" />
         </mxCell>
@@ -12,6 +15,9 @@
             <mxPoint x="1093" y="510" as="sourcePoint" />
             <mxPoint x="1093" y="430" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9GRwctNnMvmnXsCD43Yp-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.531;entryY=-0.031;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="8yMyw2qE8aiuTOASSJmz-46" target="9GRwctNnMvmnXsCD43Yp-45">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8yMyw2qE8aiuTOASSJmz-46" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="572" y="510" width="688" height="360" as="geometry" />
@@ -267,6 +273,9 @@
         </mxCell>
         <mxCell id="9GRwctNnMvmnXsCD43Yp-44" value="发送通知" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="807" y="739.5" width="20" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="9GRwctNnMvmnXsCD43Yp-47" value="存取数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="885" y="880" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
