@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-09T09:50:57.596Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="q1xswcSJXa3yQB5ENGTy" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-09T09:58:13.824Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="7tf9x_ompgGJyXIgFnX4" version="16.6.6" type="github">
   <diagram id="wSGMcBNISf7HqdgNfVy2" name="第 1 页">
-    <mxGraphModel dx="2980" dy="1162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2129" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -113,7 +113,7 @@
         <mxCell id="8yMyw2qE8aiuTOASSJmz-51" value="idc服务集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="1095" y="740" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8yMyw2qE8aiuTOASSJmz-53" value="ccmp-idc" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="8yMyw2qE8aiuTOASSJmz-53" value="ccmp-clouds-idc" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1080" y="695" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8yMyw2qE8aiuTOASSJmz-55" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;dashed=1;" parent="1" vertex="1">
@@ -122,7 +122,7 @@
         <mxCell id="8yMyw2qE8aiuTOASSJmz-56" value="私有云服务集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="1087.5" y="620" width="95" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8yMyw2qE8aiuTOASSJmz-58" value="ccmp-private-clouds" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="8yMyw2qE8aiuTOASSJmz-58" value="ccmp-clouds-private" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1080" y="575" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8yMyw2qE8aiuTOASSJmz-59" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;dashed=1;" parent="1" vertex="1">
@@ -131,7 +131,7 @@
         <mxCell id="8yMyw2qE8aiuTOASSJmz-60" value="k8s服务集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="1095" y="500" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8yMyw2qE8aiuTOASSJmz-62" value="ccmp-k8s" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="8yMyw2qE8aiuTOASSJmz-62" value="ccmp-clouds-k8s" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1080" y="455" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8yMyw2qE8aiuTOASSJmz-65" value="注册" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=default;" parent="1" vertex="1">
