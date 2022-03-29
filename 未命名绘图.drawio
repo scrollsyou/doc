@@ -1,23 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T11:23:19.549Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="FmGDuTMasO_690I8t5VI" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-29T11:57:59.819Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="2cdg0e72j3twPh8v0hSI" version="17.2.4" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
-    <mxGraphModel dx="1278" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="730" dy="313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6U4N98eAY60oqlX8b42U-1" value="展示层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6U4N98eAY60oqlX8b42U-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="70" width="580" height="140" as="geometry" />
         </mxCell>
         <mxCell id="6U4N98eAY60oqlX8b42U-2" value="核心逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="240" width="580" height="130" as="geometry" />
+          <mxGeometry x="130" y="220" width="580" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="6U4N98eAY60oqlX8b42U-3" value="api" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="400" width="580" height="100" as="geometry" />
+        <mxCell id="6U4N98eAY60oqlX8b42U-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="360" width="580" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6U4N98eAY60oqlX8b42U-4" value="中间件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="70" width="140" height="430" as="geometry" />
         </mxCell>
         <mxCell id="6U4N98eAY60oqlX8b42U-5" value="第三方平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="510" width="740" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6U4N98eAY60oqlX8b42U-6" value="展示层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6U4N98eAY60oqlX8b42U-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6U4N98eAY60oqlX8b42U-7" target="6U4N98eAY60oqlX8b42U-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6U4N98eAY60oqlX8b42U-7" value="nginx前端页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="90" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6U4N98eAY60oqlX8b42U-8" value="portal服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="140" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6U4N98eAY60oqlX8b42U-11" value="common核心模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="370" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6U4N98eAY60oqlX8b42U-13" value="notification消息模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="370" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
