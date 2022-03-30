@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-30T06:15:19.592Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="dOy7fYA2xhqAWTWfqYjR" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-30T06:16:43.821Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="VOXlAca5vLeGHuFoWXfE" version="17.2.4" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="1483" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -53,16 +53,16 @@
           <mxGeometry x="370" y="470" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6U4N98eAY60oqlX8b42U-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="130" y="570" width="740" height="40" as="geometry" />
+          <mxGeometry x="130" y="570" width="740" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6U4N98eAY60oqlX8b42U-19" value="mysql" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="700" y="572.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="700" y="576.25" width="100" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="6U4N98eAY60oqlX8b42U-20" value="rocketmq" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="385" y="575" width="110" height="25" as="geometry" />
+          <mxGeometry x="390" y="579.25" width="110" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6U4N98eAY60oqlX8b42U-21" value="elasticsearch" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="540" y="575" width="110" height="25" as="geometry" />
+          <mxGeometry x="550" y="577.5" width="110" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6U4N98eAY60oqlX8b42U-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.019;entryY=0.905;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;" edge="1" parent="1" source="6U4N98eAY60oqlX8b42U-22" target="6U4N98eAY60oqlX8b42U-4">
           <mxGeometry relative="1" as="geometry" />
@@ -113,18 +113,18 @@
           <mxGeometry x="740" y="470" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6U4N98eAY60oqlX8b42U-48" value="redis" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="250" y="575" width="110" height="25" as="geometry" />
+          <mxGeometry x="249" y="578" width="110" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="6U4N98eAY60oqlX8b42U-50" value="IDC博锐监控" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="6U4N98eAY60oqlX8b42U-50" value="IDC博锐监控" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="745" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6U4N98eAY60oqlX8b42U-51" value="K8S时速云&lt;br&gt;kubecost" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="6U4N98eAY60oqlX8b42U-51" value="K8S时速云&lt;br&gt;kubecost" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="745" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6U4N98eAY60oqlX8b42U-52" value="私有云平台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="6U4N98eAY60oqlX8b42U-52" value="私有云平台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="745" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6U4N98eAY60oqlX8b42U-53" value="SSO单点登录" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="6U4N98eAY60oqlX8b42U-53" value="SSO单点登录" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="745" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6U4N98eAY60oqlX8b42U-54" value="......" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
